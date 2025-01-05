@@ -1,4 +1,4 @@
-
+python-dotenv
 gradio
 llama-index-embeddings-mixedbreadai
 llama-index-llms-groq
